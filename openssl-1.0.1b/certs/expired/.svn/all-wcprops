@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/openssl-1.0.1b/certs/expired
+END
+ICE.crl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/openssl-1.0.1b/certs/expired/ICE.crl
+END

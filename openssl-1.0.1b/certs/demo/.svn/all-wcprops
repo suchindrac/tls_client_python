@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/openssl-1.0.1b/certs/demo
+END
+dsa-ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/openssl-1.0.1b/certs/demo/dsa-ca.pem
+END
+dsa-pca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/22/trunk/openssl-1.0.1b/certs/demo/dsa-pca.pem
+END
+pca-cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/openssl-1.0.1b/certs/demo/pca-cert.pem
+END
+ca-cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/22/trunk/openssl-1.0.1b/certs/demo/ca-cert.pem
+END
