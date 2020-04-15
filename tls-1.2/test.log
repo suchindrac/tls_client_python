@@ -1,0 +1,61 @@
+
+Wed Apr 15 06:39:54 2020 -> INFO: starting TLS 1.2 handshake
+
+Wed Apr 15 06:39:55 2020 -> INFO: Creating ClientHello
+
+Wed Apr 15 06:39:55 2020 -> INFO: Length of ClientHello:45
+
+
+Wed Apr 15 06:39:55 2020 -> INFO: Sending packet
+
+Wed Apr 15 06:39:55 2020 -> INFO: Reading ServerHello
+
+Wed Apr 15 06:39:55 2020 -> INFO: Reading server Certificate
+
+Wed Apr 15 06:39:55 2020 -> INFO: Number of Certificates: 1
+
+Wed Apr 15 06:39:55 2020 -> INFO: Read ServerCertificate
+
+Wed Apr 15 06:39:55 2020 -> INFO: Reading ServerHelloDone
+
+Wed Apr 15 06:39:55 2020 -> INFO: Read ServerHelloDone
+
+Wed Apr 15 06:39:55 2020 -> INFO: Creating client key exchange
+
+Wed Apr 15 06:39:55 2020 -> INFO: sending ClientKeyExchange
+
+Wed Apr 15 06:39:55 2020 -> INFO: sending CSS packet
+
+Wed Apr 15 06:39:55 2020 -> INFO: Creating master secret
+
+Wed Apr 15 06:39:55 2020 -> INFO: Created MasterSecret
+
+Wed Apr 15 06:39:55 2020 -> INFO: Creating finished hash
+
+Wed Apr 15 06:39:55 2020 -> INFO: Created Finished Hash
+
+Wed Apr 15 06:39:55 2020 -> INFO: Creating key block
+
+Wed Apr 15 06:39:55 2020 -> INFO: Created Key Block
+
+Wed Apr 15 06:39:55 2020 -> INFO: sending Client Finished
+
+Wed Apr 15 06:39:55 2020 -> INFO: Padding Length: 11
+
+Wed Apr 15 06:39:55 2020 -> INFO: sent Client Finished
+
+Wed Apr 15 06:39:55 2020 -> INFO: Reading server finished
+
+Wed Apr 15 06:39:55 2020 -> INFO: Read server finished
+
+Wed Apr 15 06:39:55 2020 -> INFO: TLS handshake completed
+
+Wed Apr 15 06:39:55 2020 -> INFO: Sending data
+
+Wed Apr 15 06:39:55 2020 -> INFO: Padding Length: 9
+
+Wed Apr 15 06:39:55 2020 -> INFO: send data
+
+Wed Apr 15 06:39:55 2020 -> INFO: Reading SSL packet
+
+Wed Apr 15 06:39:56 2020 -> INFO: Read SSL packet completed

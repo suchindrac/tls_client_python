@@ -1,0 +1,31 @@
+suchivaish@suchivaish-B250M-DS3H ~/tls_client_python/tls-1.2 $ python tls-1.2-client-normal.py -o example.com -p 443 -l test.log  -x TLS_RSA_WITH_AES_128_CBC_SHA 
+TLS_RSA_WITH_AES_128_CBC_SHA
+
+Wed Apr 15 06:39:15 2020 -> INFO: starting TLS 1.2 handshake
+
+Wed Apr 15 06:39:16 2020 -> INFO: Read server finished
+
+Wed Apr 15 06:39:16 2020 -> INFO: TLS handshake completed
+
+Data received: 
+�6KI8E���HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Content-Length: 349
+Connection: close
+Date: Wed, 15 Apr 2020 01:09:16 GMT
+Server: ECSF (nyb/1D11)
+
+��۾�u��1n�ʤ@��
+              ?�_^n��N�~�V-@�<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>400 - Bad Request</title>
+	</head>
+	<body>
+		<h1>400 - Bad Request</h1>
+	</body>
+</html>
+��Ygj��<ԭ��ﳆ
+
